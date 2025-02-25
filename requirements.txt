@@ -1,0 +1,7 @@
+flake8
+pillow
+pandas
+numpy
+matplotlib
+opencv-python #to cv2
+seaborn
